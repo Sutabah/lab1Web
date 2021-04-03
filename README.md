@@ -36,7 +36,10 @@ Karena disini saya sedang menggunakan handphone sepertinya tidak support untuk m
 
 
 6. Lalu yang terakhir adalah menambahkan hyperlink seperti pada gambar berikut
+
 ![Screenshot_2021-04-02-19-25-14-37](https://user-images.githubusercontent.com/81844622/113469749-62d55080-947a-11eb-84c4-1d972fceccdc.jpg)
+
+![Screenshot_2021-04-02-19-25-25-20](https://user-images.githubusercontent.com/81844622/113469755-6a94f500-947a-11eb-8c2e-dd05dfd1953a.jpg)
 
 
 
