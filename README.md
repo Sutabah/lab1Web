@@ -18,7 +18,7 @@ apabila ditambahkan align center maka hasinya akan seperti ini
 ![Screenshot_2021-04-02-19-09-23-34](https://user-images.githubusercontent.com/81844622/113469442-a5495e00-9477-11eb-97c1-74a2d39b6b9f.jpg)
 
 5. Lalu menyisipkan gambar dengan cara menyimpan gambar pada folder yang sama dengan file html agar lebih mudah
-
+![Screenshot_2021-04-02-19-20-26-16](https://user-images.githubusercontent.com/81844622/113469605-00c81b80-9479-11eb-8c9d-fcd73092af6b.jpg)
 
 
 
