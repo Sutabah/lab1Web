@@ -42,6 +42,14 @@ Karena disini saya sedang menggunakan handphone sepertinya tidak support untuk m
 ![Screenshot_2021-04-02-19-25-25-20](https://user-images.githubusercontent.com/81844622/113469755-6a94f500-947a-11eb-8c2e-dd05dfd1953a.jpg)
 
 
+Jawaban
+1. Html ini berbeda dari bahasa program lain dimana ketika terjadi eror program tetap dalam dijalankan namun hasilnya
+   akan berantakan atau tidak sesuai seperti yang kita inginkan.
+2. Jadi perbedaan yang mencolok dari kedua tag ini adalah pada jarak yang terbentuk. Kesimpulannya jika hanya ingin membuat baris baru tanpa jarak gunakan tag , tapi jika ingin membuat baris baru namun memiliki jarak dengan paragraf diatasnya maka menggunakan tag paragraf baru
+3. alt adalah atribut yang ditambahkan ke tag gambar dalam HTML. Teks ini muncul di dalam wadah gambar ketika gambar tidak dapat ditampilkan sedangkan Title adalah atribut lain yang dapat ditambahkan ke tag gambar dalam HTML. Title image ini digunakan untuk memberikan judul untuk gambar.
+4. Ya , sebaiknya disini semua agar gambar terlihat lebih rapi dan sesuai
+5. target="_blank"Memuat dokumen baru ke dalam window baru yang kosong target="_self"Memuat dokumen baru ke dalam window yang sama dengan anchor (default) target="_parent"Memuat dokumen baru ke dalam parent frame (bila menggunakan frame)target="_top"Memuat dokumen baru ke dalam keseluruhan window browser
+
 
 
 
