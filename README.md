@@ -1,7 +1,7 @@
 Nama : Sutabah
 Nim : 311910191
-Kelas Ti.19.C1
-*Mohon maaf pak karena laptop saya sedang diperbaiki untuk saat ini saya hanya dapat mengkoding dengan smartphone tapi untuk minggu depan 
+Kelas : Ti.19.C1
+*Mohon maaf pak karena laptop saya sedang diperbaiki untuk saat ini saya hanya dapat mengkoding dengan Smartphone mohon maaf apabila hasil gambarnya kurang begitu baik *
 
 1. Membuat folder lab1 dan membuat data html baru
 
