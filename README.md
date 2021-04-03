@@ -14,7 +14,7 @@ apabila ditambahkan align center maka hasinya akan seperti ini
 ![Screenshot_2021-04-02-19-07-16-41](https://user-images.githubusercontent.com/81844622/113469349-091f5700-9477-11eb-9738-4cd798695d56.jpg)
 
 4. Selanjutnya adalah menambahkan judul pada paragraf
-5. 
+![Screenshot_2021-04-02-19-07-40-15](https://user-images.githubusercontent.com/81844622/113469434-95ca1500-9477-11eb-8c46-1cebc790c2e1.jpg)
 
 
 
