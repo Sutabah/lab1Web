@@ -8,6 +8,8 @@ Kelas Ti.19.C1
 3. Selanjutnya adalah membuat paragraf sederhana seperti pada gambar berikut
 ![Screenshot_2021-04-02-19-04-55-72](https://user-images.githubusercontent.com/81844622/113469213-1be55c00-9476-11eb-9896-b801b378a7d7.jpg)
 
+![Screenshot_2021-04-02-19-06-46-53](https://user-images.githubusercontent.com/81844622/113469272-87c7c480-9476-11eb-8dfb-174d3b3b383c.jpg)
+apabila ditambahkan align center maka hasinya akan seperti ini
 
 
 
