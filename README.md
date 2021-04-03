@@ -11,7 +11,7 @@ Kelas Ti.19.C1
 ![Screenshot_2021-04-02-19-06-46-53](https://user-images.githubusercontent.com/81844622/113469272-87c7c480-9476-11eb-8dfb-174d3b3b383c.jpg)
 apabila ditambahkan align center maka hasinya akan seperti ini
 ![Screenshot_2021-04-02-19-07-40-15](https://user-images.githubusercontent.com/81844622/113469317-d83f2200-9476-11eb-8b15-b015c059982f.jpg)
-
+![Screenshot_2021-04-02-19-07-16-41](https://user-images.githubusercontent.com/81844622/113469349-091f5700-9477-11eb-9738-4cd798695d56.jpg)
 
 
 
