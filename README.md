@@ -31,6 +31,12 @@ apabila ditambahkan align center maka hasinya akan seperti ini
 
 ![Screenshot_2021-04-02-19-20-26-16](https://user-images.githubusercontent.com/81844622/113469605-00c81b80-9479-11eb-8c9d-fcd73092af6b.jpg)
 
+![Screenshot_2021-04-02-19-20-10-49](https://user-images.githubusercontent.com/81844622/113469695-e04c9100-9479-11eb-86f3-3286174292c5.jpg) 
+Karena disini saya sedang menggunakan handphone sepertinya tidak support untuk menampilkan gambar
+
+6. Lalu yang terakhir adalah menambahkan hyperlink seperti pada gambar berikut
+
+
 
 
 
